@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My myself  Aditya Andhalkar and I'm a Software Engineer from New Horizon Institute of Technology and Management anand nagar thane Here Are My Self-Made Projects and Inspired Projects</h2>
+<h2 align="left">Hi 👋! Myself  Aditya Andhalkar and I'm a Software Engineer from New Horizon Institute of Technology and Management anand nagar thane Here Are My Self-Made Projects and Inspired Projects</h2>
 
 ###
 
