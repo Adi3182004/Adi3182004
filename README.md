@@ -144,12 +144,12 @@
 ### 📈 GitHub Statistics & Activity
 
 <div align="center">
-  <img src="https://komarev.com/normal-badge/?username=Adi3182004&label=PROFILE+VIEWS&color=22d3ee&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Adi3182004&color=22d3ee&style=flat-square&label=PROFILE+VIEWS" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Adi3182004&show_icons=true&theme=calm&hide_border=true&bg_color=0c101d&title_color=22d3ee&text_color=94a3b8&icon_color=7c3aed" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Adi3182004&show_icons=true&theme=calm&hide_border=true&bg_color=0c101d&title_color=22d3ee&text_color=94a3b8&icon_color=7c3aed&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi3182004&theme=dark&background=0c101d&fire=7c3aed&ring=22d3ee&lbl_text=94a3b8&currStreakNum=22d3ee&sideNums=94a3b8&hide_border=true" height="150" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi3182004&layout=compact&theme=calm&hide_border=true&bg_color=0c101d&title_color=22d3ee&text_color=94a3b8&icon_color=7c3aed" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adi3182004&layout=compact&theme=calm&hide_border=true&bg_color=0c101d&title_color=22d3ee&text_color=94a3b8&icon_color=7c3aed&include_all_commits=true&count_private=true" height="150" />
 </div>
 
 ---
