@@ -154,6 +154,33 @@
 
 <br>
 
+### 🛠️ Verified Frameworks & Tech Stacks
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <b>⚛️ React &amp; Next.js</b><br>
+      <img src="https://geps.dev/progress/85?dangerColor=22d3ee&warningColor=22d3ee&infoColor=22d3ee&successColor=22d3ee" alt="React &amp; Next.js Progress" />
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <b>🐍 Python &amp; FastAPI</b><br>
+      <img src="https://geps.dev/progress/85?dangerColor=22d3ee&warningColor=22d3ee&infoColor=22d3ee&successColor=22d3ee" alt="Python Progress" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <b>🤖 Kotlin &amp; Android</b><br>
+      <img src="https://geps.dev/progress/75?dangerColor=22d3ee&warningColor=22d3ee&infoColor=22d3ee&successColor=22d3ee" alt="Kotlin Progress" />
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <b>🛡️ TypeScript &amp; JS</b><br>
+      <img src="https://geps.dev/progress/80?dangerColor=22d3ee&warningColor=22d3ee&infoColor=22d3ee&successColor=22d3ee" alt="TypeScript Progress" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Adi3182004/Adi3182004/output/github-contribution-grid-snake.svg?v=1" alt="GitHub Contribution Snake Animation" width="100%">
 </div>
