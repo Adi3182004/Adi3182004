@@ -8,7 +8,7 @@
 <table width="100%">
   <tr>
     <td width="42%" align="center" valign="middle" style="border: none;">
-      <video src="https://github.com/user-attachments/assets/e60884ac-1a78-4001-9389-1beee1160ed8" width="100%" height="auto" controls autoplay playsinline muted onclick="this.muted=false; this.currentTime=0; this.play();" ondblclick="this.currentTime=0; this.play();" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); box-shadow: 0 4px 20px rgba(0,0,0,0.3); display: block; cursor: pointer;"></video>
+      <video src="https://github.com/user-attachments/assets/4ee3be0a-0138-417e-b415-a64234d381e9" width="100%" height="auto" controls autoplay playsinline muted onclick="this.muted=false; this.currentTime=0; this.play();" ondblclick="this.currentTime=0; this.play();" style="border-radius: 12px; border: 1px solid rgba(255,255,255,0.08); box-shadow: 0 4px 20px rgba(0,0,0,0.3); display: block; cursor: pointer;"></video>
     </td>
     <td width="58%" valign="top" style="border: none; padding-left: 20px;">
       <h4>Aditya Andhalkar</h4>
