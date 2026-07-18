@@ -210,6 +210,6 @@
 
 <div align="center">
   <a href="https://github.com/Adi3182004">
-    <img alt="Aditya Andhalkar Profile Banner" src="dark.svg" width="100%">
+    <img alt="Aditya Andhalkar Profile Banner" src="dark.svg?v=2" width="100%">
   </a>
 </div>
