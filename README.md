@@ -155,7 +155,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Adi3182004/Adi3182004/output/github-contribution-grid-snake-dark.svg?v=1" alt="GitHub Contribution Snake Animation" width="100%">
+  <img src="https://raw.githubusercontent.com/Adi3182004/Adi3182004/output/github-contribution-grid-snake.svg?v=1" alt="GitHub Contribution Snake Animation" width="100%">
 </div>
 
 ---
