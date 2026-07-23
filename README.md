@@ -22,22 +22,22 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- SWINGING LANYARD ID CARD & FEATURED WORKS TABLE (Megha & Boy Theme Style) -->
+<!-- SWINGING LANYARD DEVELOPER ID CARD (MEDIUM CENTERED PROMINENT BADGE)      -->
 <!-- ========================================================================= -->
 
-<table align="center" width="100%" border="0">
-<tr>
-
-<td width="38%" align="center" valign="middle" style="border: none;">
-  <!-- Swinging Lanyard Developer ID Badge SVG (Boy Theme with Transparent Vector Avatar) -->
+<p align="center">
   <a href="https://github.com/Adi3182004">
-    <img src="./adi-lanyard.svg?v=6" alt="Aditya Andhalkar Developer ID Badge" width="330"/>
+    <img src="./adi-lanyard.svg?v=6" alt="Aditya Andhalkar Developer ID Badge" width="230"/>
   </a>
-</td>
+</p>
 
-<td width="62%" valign="middle" style="border: none; padding-left: 15px;">
+<br/>
 
-### ⚡ Featured Flagship Works
+<!-- ========================================================================= -->
+<!-- FEATURED FLAGSHIP WORKS TABLE                                             -->
+<!-- ========================================================================= -->
+
+<h3 align="center">⚡ Featured Flagship Works</h3>
 
 | 🚀 Project | 💻 Tech Stack | ⭐ Link |
 |:---|:---:|:---:|
@@ -50,14 +50,9 @@
 | [📄 Offline RAG PDF Agent](https://github.com/Adi3182004/Offline-RAG-LLM-AI-Agent-for-PDF-Understanding) | `LangChain` `FAISS` `Python` | [Repo](https://github.com/Adi3182004/Offline-RAG-LLM-AI-Agent-for-PDF-Understanding) |
 | [🌱 Greenovate (SIH 2025)](https://github.com/Adi3182004/Greenovate) | `React` `Tailwind` `Supabase` | [Repo](https://github.com/Adi3182004/Greenovate) |
 
-<br/>
-
-> 💬 *"Fusing Intelligent Agent Systems, Biometric Dynamics, & System Architectures."*
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  💬 <i>"Fusing Intelligent Agent Systems, Biometric Dynamics, & System Architectures."</i>
+</p>
 
 <br/>
 
