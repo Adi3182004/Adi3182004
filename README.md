@@ -2,7 +2,7 @@
 <!-- TOP HERO BANNER GRAPHIC (100% CRISP NATIVE VECTOR SVG WITH ANIMATIONS)    -->
 <!-- ========================================================================= -->
 <p align="center">
-  <img width="100%" src="./assets/header_animated_crisp.svg?v=11" alt="Aditya Andhalkar — Software Developer Hero Banner" />
+  <img width="100%" src="./assets/header_animated_crisp.svg?v=12" alt="Aditya Andhalkar — Software Developer Hero Banner" style="max-width: 100%; height: auto;" />
 </p>
 
 <!-- Animated Typing Text SVG with Custom Roles -->
@@ -341,5 +341,5 @@
 
 <!-- 100% Crisp Vector Animated Footer Banner with Blended Translucent Lavender Pill -->
 <p align="center">
-  <img width="100%" src="./assets/footer_animated_crisp.svg?v=7" alt="Aditya Andhalkar — Thanks for Visiting Footer Banner" />
+  <img width="100%" src="./assets/footer_animated_crisp.svg?v=8" alt="Aditya Andhalkar — Thanks for Visiting Footer Banner" style="max-width: 100%; height: auto;" />
 </p>
