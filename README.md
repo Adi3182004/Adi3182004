@@ -8,15 +8,15 @@
 <!-- Animated Typing Text SVG with Custom Roles -->
 <p align="center">
   <a href="https://github.com/Adi3182004">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=820&lines=Software+%26+AI+Systems+Engineer;Full-Stack+Developer;AI+%2F+ML+Enthusiast;Data+Scientist;DevOps+Enthusiast;System+%26+AI+Platform+Architect;Open+Source+Contributor" alt="Typing Animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=820&lines=Software+%26+AI+Systems+Engineer;Full-Stack+Developer;AI+%2F+ML+Enthusiast;Data+Scientist;DevOps+Enthusiast;System+%26+AI+Platform+Architect;Open+Source+Contributor" alt="Typing Animation" style="max-width: 100%; height: auto;"/>
   </a>
 </p>
 
 <!-- Live Profile Counter & Stat Badges -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Adi3182004?style=for-the-badge&logo=github&label=Followers&color=7c3aed" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Adi3182004?style=for-the-badge&logo=github&label=Stars&color=a78bfa" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=Adi3182004&style=for-the-badge&color=10b981&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Adi3182004?style=for-the-badge&logo=github&label=Followers&color=7c3aed" alt="Followers" style="max-width: 100%; height: auto;" />
+  <img src="https://img.shields.io/github/stars/Adi3182004?style=for-the-badge&logo=github&label=Stars&color=a78bfa" alt="Stars" style="max-width: 100%; height: auto;" />
+  <img src="https://komarev.com/ghpvc/?username=Adi3182004&style=for-the-badge&color=10b981&label=PROFILE+VIEWS" alt="Profile Views" style="max-width: 100%; height: auto;"/>
 </p>
 
 <br/>
@@ -273,11 +273,11 @@
 
 <div align="center">
   <!-- Extended GitHub Stats & Streak Cards -->
-  <img src="https://github-stats-extended.vercel.app/api?username=Adi3182004&show_icons=true&theme=calm&hide_border=true&bg_color=0c101d&title_color=a78bfa&text_color=94a3b8&icon_color=7c3aed&include_all_commits=true&count_private=true&hide_rank=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi3182004&theme=dark&background=0c101d&fire=7c3aed&ring=a78bfa&lbl_text=94a3b8&currStreakNum=a78bfa&sideNums=94a3b8&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Adi3182004&show_icons=true&theme=calm&hide_border=true&bg_color=0c101d&title_color=a78bfa&text_color=94a3b8&icon_color=7c3aed&include_all_commits=true&count_private=true&hide_rank=true" height="165" style="max-width: 100%; height: auto; margin: 4px; vertical-align: middle;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi3182004&theme=dark&background=0c101d&fire=7c3aed&ring=a78bfa&lbl_text=94a3b8&currStreakNum=a78bfa&sideNums=94a3b8&hide_border=true" height="165" style="max-width: 100%; height: auto; margin: 4px; vertical-align: middle;" />
   <br/><br/>
   <!-- Top Languages Card -->
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adi3182004&layout=compact&theme=calm&hide_border=true&bg_color=0c101d&title_color=a78bfa&text_color=94a3b8&icon_color=7c3aed&include_all_commits=true&count_private=true&hide=cython,c,jupyter%20notebook,smali" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adi3182004&layout=compact&theme=calm&hide_border=true&bg_color=0c101d&title_color=a78bfa&text_color=94a3b8&icon_color=7c3aed&include_all_commits=true&count_private=true&hide=cython,c,jupyter%20notebook,smali" height="165" style="max-width: 100%; height: auto; margin: 4px; vertical-align: middle;" />
 </div>
 
 <br/>
@@ -285,7 +285,7 @@
 <!-- Contribution Activity Graph -->
 <h3 align="center">📊 Contribution Activity Graph</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adi3182004&bg_color=0c101d&color=a78bfa&line=7c3aed&point=10b981&area=true&area_color=7c3aed&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adi3182004&bg_color=0c101d&color=a78bfa&line=7c3aed&point=10b981&area=true&area_color=7c3aed&hide_border=true" width="95%" style="max-width: 100%; height: auto;"/>
 </p>
 
 <br/>
@@ -293,7 +293,7 @@
 <!-- Contribution Snake Animation -->
 <h3 align="center">🐍 Contribution Grid Snake</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Adi3182004/Adi3182004/output/github-contribution-grid-snake.svg?v=3" alt="GitHub Contribution Snake Animation" width="100%">
+  <img src="https://raw.githubusercontent.com/Adi3182004/Adi3182004/output/github-contribution-grid-snake.svg?v=3" alt="GitHub Contribution Snake Animation" width="100%" style="max-width: 100%; height: auto;">
 </p>
 
 <br/>
@@ -308,7 +308,7 @@
 
 <div align="center">
   <a href="https://github.com/Adi3182004">
-    <img alt="Aditya Andhalkar Profile Terminal" src="./dark.svg?v=3" width="100%">
+    <img alt="Aditya Andhalkar Profile Terminal" src="./dark.svg?v=3" width="100%" style="max-width: 100%; height: auto;">
   </a>
 </div>
 
