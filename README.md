@@ -22,20 +22,20 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- SWINGING LANYARD ID CARD & FEATURED WORKS TABLE (SIDE-BY-SIDE LAYOUT)     -->
+<!-- SWINGING LANYARD ID CARD & FEATURED WORKS TABLE (RESPONSIVE 2-COLUMN)     -->
 <!-- ========================================================================= -->
 
-<table align="center" width="100%" border="0">
+<table align="center" width="100%" border="0" style="width: 100%; max-width: 100%;">
 <tr>
 
-<td width="30%" align="center" valign="middle" style="border: none;">
-  <!-- Swinging Lanyard Developer ID Badge SVG (Medium 230px size) -->
+<td width="32%" align="center" valign="middle" style="border: none; min-width: 160px;">
+  <!-- Swinging Lanyard Developer ID Badge SVG (Responsive Fluid Sizing) -->
   <a href="https://github.com/Adi3182004">
-    <img src="./adi-lanyard.svg?v=6" alt="Aditya Andhalkar Developer ID Badge" width="230"/>
+    <img src="./adi-lanyard.svg?v=6" alt="Aditya Andhalkar Developer ID Badge" width="240" style="max-width: 100%; width: 100%; height: auto; min-width: 140px; display: block;"/>
   </a>
 </td>
 
-<td width="70%" valign="middle" style="border: none; padding-left: 15px;">
+<td width="68%" valign="middle" style="border: none; padding-left: 10px;">
 
 ### ⚡ Featured Flagship Works
 
@@ -69,7 +69,7 @@
 
 <h2 align="center">👨‍💻 About Me & Engineering Philosophy</h2>
 
-<table width="100%">
+<table width="100%" style="width: 100%; max-width: 100%;">
   <tr>
     <td width="65%" valign="top" style="border: none;">
       <h3>🚀 Background & Focus</h3>
@@ -81,9 +81,9 @@
         <li>🏆 <b>Hackathons &amp; Impact</b>: <b>SIH 2025 High Scorer</b> (Greenovate), <b>4th Place Swafinix AI Agents Hackathon</b>, <b>Data Science &amp; ML Intern</b> (Prodigy InfoTech &amp; Mirai School of Tech).</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle" style="border: none;">
+    <td width="35%" align="center" valign="middle" style="border: none; min-width: 150px;">
       <!-- Standing Boy Developer Illustration (Houria Style) -->
-      <img src="./assets/boy_standing.jpg" width="220" style="border-radius: 16px; border: 2px solid #7c3aed; box-shadow: 0 4px 20px rgba(124,58,237,0.4);" alt="Aditya Developer Illustration" />
+      <img src="./assets/boy_standing.jpg" width="220" style="max-width: 100%; height: auto; border-radius: 16px; border: 2px solid #7c3aed; box-shadow: 0 4px 20px rgba(124,58,237,0.4);" alt="Aditya Developer Illustration" />
     </td>
   </tr>
 </table>
