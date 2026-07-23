@@ -22,20 +22,19 @@
 <br/>
 
 <!-- ========================================================================= -->
-<!-- SWINGING LANYARD ID CARD & FEATURED WORKS TABLE (RESPONSIVE 2-COLUMN)     -->
+<!-- SWINGING LANYARD ID CARD & FEATURED WORKS TABLE (STACKED LAYOUT)          -->
 <!-- ========================================================================= -->
 
-<table align="center" width="100%" border="0" style="width: 100%; max-width: 100%;">
-<tr>
-
-<td width="32%" align="center" valign="middle" style="border: none; min-width: 160px;">
+<div align="center">
   <!-- Swinging Lanyard Developer ID Badge SVG (Responsive Fluid Sizing) -->
   <a href="https://github.com/Adi3182004">
-    <img src="./adi-lanyard.svg?v=6" alt="Aditya Andhalkar Developer ID Badge" width="240" style="max-width: 100%; width: 100%; height: auto; min-width: 140px; display: block;"/>
+    <img src="./adi-lanyard.svg?v=6" alt="Aditya Andhalkar Developer ID Badge" width="240" style="max-width: 100%; width: 240px; height: auto; display: block; margin: 0 auto;"/>
   </a>
-</td>
+</div>
 
-<td width="68%" valign="middle" style="border: none; padding-left: 10px;">
+<br/>
+
+<div align="center">
 
 ### ⚡ Featured Flagship Works
 
@@ -54,10 +53,7 @@
 
 > 💬 *"Fusing Intelligent Agent Systems, Biometric Dynamics, & System Architectures."*
 
-</td>
-
-</tr>
-</table>
+</div>
 
 <br/>
 
