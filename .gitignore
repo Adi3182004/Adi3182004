@@ -1,0 +1,10 @@
+# Reference folders
+Houria-hs-main/
+Meghamittal0920-main/
+tubakhxn-main/
+
+# Python & System temp files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 380" width="100%" height="auto" role="img" aria-label="Aditya Andhalkar — Thanks for Visiting Footer Banner">
+<title>Aditya Andhalkar — Thanks for Visiting!</title>
+<defs>
+<style type="text/css"><![CDATA[
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@600;700;800&family=Fira+Code:wght@600;700&display=swap');
+text { font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+.code-text { font-family: 'Fira Code', Consolas, monospace; }
+@keyframes floaty { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-7px); } }
+@keyframes pulseGlow { 0%, 100% { opacity: 0.35; } 50% { opacity: 0.85; } }
+@keyframes twinkle { 0%, 100% { opacity: 0.3; transform: scale(0.7); } 50% { opacity: 1; transform: scale(1.2); } }
+
+.fl1 { transform-box: fill-box; transform-origin: center; animation: floaty 4.5s ease-in-out infinite; }
+.fl2 { transform-box: fill-box; transform-origin: center; animation: floaty 5.5s ease-in-out 1.2s infinite; }
+.tw { transform-box: fill-box; transform-origin: center; animation: twinkle 3s ease-in-out infinite; }
+.glow-aur { transform-box: fill-box; transform-origin: center; animation: pulseGlow 4s ease-in-out infinite; }
+.badge-btn { transition: transform 0.2s ease, filter 0.2s ease; cursor: pointer; }
+.badge-btn:hover { transform: translateY(-2px); filter: brightness(1.05); }
+]]></style>
+
+<linearGradient id="footerBg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0%" stop-color="#fcfbfe"/>
+  <stop offset="45%" stop-color="#f4ebfc"/>
+  <stop offset="100%" stop-color="#eae0f8"/>
+</linearGradient>
+
+<linearGradient id="purpleGlow" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#5b21b6"/>
+  <stop offset="100%" stop-color="#7c3aed"/>
+</linearGradient>
+
+<linearGradient id="lavenderPillGrad" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#f3e8ff" stop-opacity="0.85"/>
+  <stop offset="100%" stop-color="#e9d5ff" stop-opacity="0.85"/>
+</linearGradient>
+
+<radialGradient id="bgPulseFooter"><stop offset="0%" stop-color="#a78bfa" stop-opacity="0.35"/><stop offset="100%" stop-color="#f4ebfc" stop-opacity="0"/></radialGradient>
+<filter id="cardShadow" x="-20%" y="-20%" width="140%" height="140%">
+  <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#3b0764" flood-opacity="0.14"/>
+</filter>
+<clipPath id="rectClipFooter"><rect x="0" y="0" width="1200" height="380" rx="18"/></clipPath>
+</defs>
+
+<!-- Outer Container -->
+<g clip-path="url(#rectClipFooter)">
+  <!-- Clean Lavender Background -->
+  <rect x="0" y="0" width="1200" height="380" fill="url(#footerBg)"/>
+
+  <!-- Subtle Wave Lines & Grid Mesh -->
+  <g opacity="0.35">
+    <path d="M 0 280 Q 300 250 600 280 T 1200 280" fill="none" stroke="#7c3aed" stroke-width="1.5"/>
+    <path d="M 0 305 Q 300 330 600 300 T 1200 315" fill="none" stroke="#a78bfa" stroke-width="1"/>
+  </g>
+
+  <!-- Dots Pattern Left & Right -->
+  <g opacity="0.2" fill="#6d28d9">
+    <circle cx="50" cy="50" r="2.5"/><circle cx="68" cy="50" r="2.5"/><circle cx="86" cy="50" r="2.5"/><circle cx="104" cy="50" r="2.5"/>
+    <circle cx="50" cy="68" r="2.5"/><circle cx="68" cy="68" r="2.5"/><circle cx="86" cy="68" r="2.5"/><circle cx="104" cy="68" r="2.5"/>
+
+    <circle cx="1096" cy="50" r="2.5"/><circle cx="1114" cy="50" r="2.5"/><circle cx="1132" cy="50" r="2.5"/><circle cx="1150" cy="50" r="2.5"/>
+    <circle cx="1096" cy="68" r="2.5"/><circle cx="1114" cy="68" r="2.5"/><circle cx="1132" cy="68" r="2.5"/><circle cx="1150" cy="68" r="2.5"/>
+  </g>
+
+  <!-- Ambient Glow -->
+  <circle class="glow-aur" cx="600" cy="180" r="300" fill="url(#bgPulseFooter)"/>
+
+  <!-- Floating 3D Glyphs -->
+  <g class="fl1"><text x="80" y="160" class="code-text" font-size="32" font-weight="600" fill="#7c3aed" opacity="0.45">&amp;#123; &amp;#125;</text></g>
+  <g class="fl2"><text x="1080" y="160" class="code-text" font-size="32" font-weight="600" fill="#a78bfa" opacity="0.45">&amp;#123; &amp;#125;</text></g>
+  <g class="tw" style="animation-delay: 0.5s;"><path d="M210 80l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" fill="#7c3aed" opacity="0.6"/></g>
+  <g class="tw" style="animation-delay: 1.8s;"><path d="M970 80l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" fill="#a78bfa" opacity="0.6"/></g>
+
+  <!-- CENTER TYPOGRAPHY -->
+  <g transform="translate(600, 0)" text-anchor="middle">
+    <text x="0" y="65" class="code-text" font-size="30" font-weight="700" fill="#6d28d9">&lt;/&gt;</text>
+    <text x="0" y="120" font-size="46" font-weight="800" fill="#0f172a" letter-spacing="-0.5">Thanks for <tspan fill="url(#purpleGlow)">visiting!</tspan></text>
+
+    <g transform="translate(0, 140)">
+      <line x1="-150" y1="0" x2="150" y2="0" stroke="#ddd6fe" stroke-width="1.5"/>
+      <path d="M-6 -6 c-2.5-5-9.5-4-9.5 1.5 0 4 5.5 7.5 9.5 10.5 4-3 9.5-6.5 9.5-10.5 0-5.5-7-6.5-9.5-1.5z" fill="#7c3aed"/>
+    </g>
+
+    <text x="0" y="178" font-size="16.5" font-weight="600" fill="#334155">Let's build something great together.</text>
+    <text x="0" y="205" font-size="15" font-weight="600" fill="#64748b">See you around! 👋</text>
+  </g>
+
+  <!-- CLICKABLE BADGES FOOTER RIBBON (BLENDED LAVENDER FILL) -->
+  <g transform="translate(40, 290)" filter="url(#cardShadow)">
+    <rect x="0" y="0" width="1120" height="54" rx="27" fill="url(#lavenderPillGrad)" stroke="#c084fc" stroke-width="1.5"/>
+
+    <!-- Link 1: GitHub -->
+    <a href="https://github.com/Adi3182004" target="_blank" class="badge-btn">
+      <g transform="translate(30, 15)">
+        <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z" fill="#4c1d95"/>
+        <text x="32" y="17" font-size="14.5" font-weight="700" fill="#0f172a">@Adi3182004</text>
+      </g>
+    </a>
+
+    <line x1="205" y1="14" x2="205" y2="40" stroke="#a78bfa" stroke-width="1"/>
+
+    <!-- Link 2: LinkedIn -->
+    <a href="https://www.linkedin.com/in/aditya-andhalkar-21591b2b6" target="_blank" class="badge-btn">
+      <g transform="translate(225, 15)">
+        <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" fill="#0284c7"/>
+        <text x="30" y="17" font-size="14.5" font-weight="700" fill="#0f172a">/in/adityaandhalkar</text>
+      </g>
+    </a>
+
+    <line x1="455" y1="14" x2="455" y2="40" stroke="#a78bfa" stroke-width="1"/>
+
+    <!-- Link 3: Gmail Email -->
+    <a href="mailto:adi3182004@gmail.com" class="badge-btn">
+      <g transform="translate(475, 15)">
+        <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z" fill="#ea580c"/>
+        <text x="30" y="17" font-size="14" font-weight="700" fill="#0f172a">adi3182004@gmail.com</text>
+      </g>
+    </a>
+
+    <line x1="710" y1="14" x2="710" y2="40" stroke="#a78bfa" stroke-width="1"/>
+
+    <!-- Tagline Heart Quote -->
+    <g transform="translate(730, 15)">
+      <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" fill="#7c3aed"/>
+      <text x="30" y="17" font-size="13.5" font-weight="600" fill="#334155">Building digital solutions that make an impact.</text>
+    </g>
+  </g>
+
+  <!-- Outer Frame -->
+  <rect x="1" y="1" width="1198" height="378" rx="17" fill="none" stroke="#c084fc" stroke-width="1.5" opacity="0.6"/>
+</g>
+</svg>
